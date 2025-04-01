@@ -2,6 +2,13 @@
 
 This EFI enables a fully functional macOS Sequoia experience on the Lenovo ThinkPad X1 Carbon Gen 8 with a touchscreen. It's optimized for stability, performance, and power efficiency while maintaining full dual-boot compatibility with Windows.
 
+# My Hardware
+Thinkpad X1 Carbon Gen 8
+Intel® Core™ i7-10610U
+14.0" FHD (1920 x 1080) IPS, anti-glare, touchscreen
+16 GB LPDDR3 2133MHz
+Integrated Intel® UHD Graphics
+
 # Features
 ✅ macOS Sequoia compatibility with OpenCore
 ✅ Native macOS experience with almost full hardware support
